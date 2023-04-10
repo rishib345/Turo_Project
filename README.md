@@ -1,4 +1,5 @@
 # Turo_Project
+
 Created an ER Diagram and a Dimension Model of Turo.com
 Inserted Records individually in both the diagrams.
 Connected the Qlikview Server with the MySQL Dimension Model.
